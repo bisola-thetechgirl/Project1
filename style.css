@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+.navbar {
+    display: inline;
+    margin: 10px;
+    
+}
+
+.active {
+    color: ;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+.contact {
+    margin: 10px;
+}
+
+.review {
+    margin: 10px;
+}
